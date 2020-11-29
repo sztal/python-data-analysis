@@ -5,3 +5,4 @@ OLD/**
 **/.ipynb_checkpoints/
 students/*
 **/*.zip
+**/*_solutions.ipynb
